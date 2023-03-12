@@ -140,11 +140,11 @@ main > section > article > aside > div {
     width: 20direita0px;
 }
 
-main > section > article > aside > div > ul >li {
+abbr {
     text-decoration: none;
 }
 
-a:hover {
+abbr:hover{
     background-color: var(--cor1);
 }
 
