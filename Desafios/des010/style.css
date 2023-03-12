@@ -144,7 +144,7 @@ main > section > article > aside > div > ul >li {
     text-decoration: none;
 }
 
-:hover li{
+a:hover {
     background-color: var(--cor1);
 }
 
